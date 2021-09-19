@@ -1,2 +1,1 @@
-# SoftUni-Courses
-SoftUni-Courses
+Tasks and homeworks from SoftUni courses.
