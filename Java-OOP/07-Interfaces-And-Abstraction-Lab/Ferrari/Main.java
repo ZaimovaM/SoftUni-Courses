@@ -7,7 +7,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         String driverName = scanner.nextLine();
 
-        Ferrari ferrari = new Ferrari(driverName);
+        Car ferrari = new Ferrari(driverName);
 
         System.out.println(ferrari.toString());
     }
